@@ -36,6 +36,7 @@ exercise.linearRegression = function(x, y) {
     return (x)=>{return exercise.linearRegression.b()+exercise.linearRegression.m()*x};
 
 
+
 };
 
 function getRandomNumber() {
